@@ -119,4 +119,5 @@ The attachment is proven to be malicious (54/71 VT detections), the sending infr
 ---
 
 | VirusTotal |
+
 <img width="2560" height="1438" alt="virus total" src="https://github.com/user-attachments/assets/c6951019-73fd-4f41-8ea2-13ee7ab2d15a" />
